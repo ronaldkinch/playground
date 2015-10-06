@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "JS object playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldkinch/playground.git"
+  },
+  "author": "Ronald Kinch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronaldkinch/playground/issues"
+  },
+  "homepage": "https://github.com/ronaldkinch/playground#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
